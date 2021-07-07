@@ -7,3 +7,4 @@ The algorithm is based on the frequency of occurrence of the data item(byte). Th
 The main idea of the algorithm is create a binary tree, called Huffman tree, based on the bytes frequency on the data, where the leafs are the bytes symbols, and the path from the root to a leaf determines the new representation of that leaf byte.
 
 This code is complete implementation of huffman coding compression and decompression with comments to get a clear idea about the code.
+**Use forward slash in the path of the file**
