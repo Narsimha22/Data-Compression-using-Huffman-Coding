@@ -1,5 +1,5 @@
 # Data-Compression-using-Huffman-Coding
-This is a code to compress a text file into a binary file using Huffman Coding algorithm.
+This is a python code to compress a text file into a binary file using Huffman Coding algorithm.
 
 The Huffman Coding is a lossless data compression algorithm, developed by David Huffman in the early of 50s while he was a PhD student at MIT. The algorithm is based on a binary-tree frequency-sorting method that allow encode any message sequence into shorter encoded messages and a method to reassemble into the original message without losing any data.
 
